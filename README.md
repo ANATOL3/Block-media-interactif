@@ -5,7 +5,7 @@ Pour essayer : https://tatol.dev/github/Block-media-interactif/
 
 ## 📸 Aperçu
 
-![preview](assets/media-video-exemple.gif)
+![preview]([assets/media-video-exemple.gif](https://tatol.dev/github/Block-media-interactif/assets/media-video-exemple.gif))
 *Ici, j’ai juste mis le lien des médias pour l’exemple, mais on peut très bien mettre toutes sortes de liens.*
 
 ## ✨ Fonctionnalités
